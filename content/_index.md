@@ -27,4 +27,4 @@ Welcome! I help organizations and entrepreneurs build, deploy, and manage AI pro
 
 ---
 
-Ready to discuss? drop me an email at **ramagirishkumar435@gmail.com**.
+**Ready to discuss?** Drop me an email at [ramagirishkumar435@gmail.com](mailto:ramagirishkumar435@gmail.com).
