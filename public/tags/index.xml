@@ -16,13 +16,6 @@
       <description></description>
     </item>
     <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/tags/blog/</link>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/blog/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>CI/CD</title>
       <link>http://localhost:1313/tags/ci/cd/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
@@ -48,13 +41,6 @@
       <link>http://localhost:1313/tags/hugging-face-spaces/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/hugging-face-spaces/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Intro</title>
-      <link>http://localhost:1313/tags/intro/</link>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/intro/</guid>
       <description></description>
     </item>
     <item>
