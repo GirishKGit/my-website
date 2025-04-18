@@ -26,6 +26,9 @@
     <loc>http://localhost:1313/blog/my_first-blog/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/hugging-face-spaces/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,9 +47,6 @@
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/streamlit/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -58,5 +58,7 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/</loc>
   </url>
 </urlset>
