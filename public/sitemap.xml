@@ -5,7 +5,13 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/aws-sagemaker/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ci/cd/</loc>
@@ -32,7 +38,13 @@
     <loc>http://localhost:1313/tags/mlops/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/probability/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/randomness/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/streamlit/</loc>
@@ -42,10 +54,9 @@
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/my_first-blog/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/ai-product-roadmap/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
