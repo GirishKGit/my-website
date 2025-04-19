@@ -23,11 +23,14 @@
       <description>An end-to-end MLOps pipeline for Iris classification using AWS SageMaker.</description>
     </item>
     <item>
-      <title>Why Your Computer is a Terrible Gambler</title>
+      <title>Why Computers Can&#39;t Truly Roll the Dice</title>
       <link>http://localhost:1313/blog/my_first-blog/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/my_first-blog/</guid>
-      <description>Explore the science of randomness and why your computer isn&amp;rsquo;t really good at being random — and how that affects AI decisions.</description>
+      <description>&lt;p&gt;The Casino&amp;rsquo;s Secret: Why Computers Can&amp;rsquo;t Truly Roll the Dice
+Ever wondered why casinos seem to have an unfair advantage? It&amp;rsquo;s not just the house edge; it&amp;rsquo;s also the technology behind their games. While computers are incredibly powerful, they have a secret: they&amp;rsquo;re not very good at randomness.&lt;/p&gt;
+&lt;p&gt;The Problem with Pseudo-Randomness&lt;/p&gt;
+&lt;p&gt;When you ask your computer to generate a random number, it doesn&amp;rsquo;t actually consult a cosmic dice roller. Instead, it uses something called a pseudo-random number generator (PRNG). Think of a PRNG as a magician with a secret trick: it appears to produce random numbers, but it&amp;rsquo;s actually following a predetermined pattern.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
