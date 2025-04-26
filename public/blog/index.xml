@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Girish Kumar</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Girish Kumar</description>
+    <generator>Hugo -- 0.146.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Computers Can&#39;t Truly Roll the Dice</title>
+      <link>http://localhost:1313/blog/my_first-blog/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my_first-blog/</guid>
+      <description>&lt;p&gt;The Casino&amp;rsquo;s Secret: Why Computers Can&amp;rsquo;t Truly Roll the Dice
+Ever wondered why casinos seem to have an unfair advantage? It&amp;rsquo;s not just the house edge; it&amp;rsquo;s also the technology behind their games. While computers are incredibly powerful, they have a secret: they&amp;rsquo;re not very good at randomness.&lt;/p&gt;
+&lt;p&gt;The Problem with Pseudo-Randomness&lt;/p&gt;
+&lt;p&gt;When you ask your computer to generate a random number, it doesn&amp;rsquo;t actually consult a cosmic dice roller. Instead, it uses something called a pseudo-random number generator (PRNG). Think of a PRNG as a magician with a secret trick: it appears to produce random numbers, but it&amp;rsquo;s actually following a predetermined pattern.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

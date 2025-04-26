@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Girish Kumar</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Girish Kumar</description>
+    <generator>Hugo -- 0.146.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autonomous Ops Agent</title>
+      <link>http://localhost:1313/projects/autonomous-ops-agent/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/autonomous-ops-agent/</guid>
+      <description>&lt;p&gt;Streamlit-based RAG + CrewAI assistant for HR and security operations&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;ll be redirected shortly to the full app!&lt;/p&gt;
+&lt;h2 id=&#34;live-demo&#34;&gt;Live Demo&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/spaces/Girishug/autonomous-ops-agent&#34;&gt;&lt;img alt=&#34;Live Demo&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/Live_Demo-HuggingFace_Spaces-orange?logo=streamlit&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Face Score — AI‑Powered Aesthetics</title>
+      <link>http://localhost:1313/projects/face-score/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/face-score/</guid>
+      <description>A Streamlit app that scores facial aesthetics using a custom vision model and Hugging Face Spaces.</description>
+    </item>
+    <item>
+      <title>Iris MLOps Pipeline with AWS SageMaker</title>
+      <link>http://localhost:1313/projects/iris-mlops-pipeline/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/iris-mlops-pipeline/</guid>
+      <description>An end-to-end MLOps pipeline for Iris classification using AWS SageMaker.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/ai-product-roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ai-product-roadmap/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

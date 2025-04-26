@@ -1,0 +1,40 @@
+baseURL = "https://girishkumarr.netlify.app/"
+languageCode = "en-us"
+title = "Girish Kumar"
+theme = "PaperMod"
+pagination.pageSize = 10
+
+
+[params]
+  author = "Girish Kumar"
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[menu]
+  [[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 1
+
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "services"
+    name = "Services"
+    url = "/services/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
