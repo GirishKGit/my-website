@@ -9,7 +9,7 @@ A Streamlit app that uses Retrieval-Augmented Generation (RAG) and CrewAI agents
 
 ## Live Demo
 
-[![Live Demo on HF–Spaces](https://img.shields.io/badge/Launch%20Demo-HF--Spaces-purple?style=for-the-badge)](https://huggingface.co/spaces/Girishug/autonomous-ops-agent)
+click here -> [![Live Demo on HF–Spaces](https://img.shields.io/badge/Launch%20Demo-HF--Spaces-purple?style=for-the-badge)](https://huggingface.co/spaces/Girishug/autonomous-ops-agent)
 
 ## Key Highlights:
 
