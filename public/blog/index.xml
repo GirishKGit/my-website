@@ -18,5 +18,19 @@ Ever wondered why casinos seem to have an unfair advantage? It&amp;rsquo;s not j
 &lt;p&gt;The Problem with Pseudo-Randomness&lt;/p&gt;
 &lt;p&gt;When you ask your computer to generate a random number, it doesn&amp;rsquo;t actually consult a cosmic dice roller. Instead, it uses something called a pseudo-random number generator (PRNG). Think of a PRNG as a magician with a secret trick: it appears to produce random numbers, but it&amp;rsquo;s actually following a predetermined pattern.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/native-python-cuda-for-image-convolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/native-python-cuda-for-image-convolution/</guid>
+      <description>&lt;p&gt;title: &amp;ldquo;Native Python CUDA for Image Convolution&amp;rdquo;
+date: 2025-04-28
+description: &amp;ldquo;A practical guide to writing GPU kernels in pure Python using NVIDIA&amp;rsquo;s native CUDA Python support.&amp;rdquo;
+author: Girish Kumar
+tags: [&amp;ldquo;CUDA&amp;rdquo;, &amp;ldquo;Python&amp;rdquo;, &amp;ldquo;GPU&amp;rdquo;, &amp;ldquo;Numba&amp;rdquo;, &amp;ldquo;Image Processing&amp;rdquo;, &amp;ldquo;AI&amp;rdquo;, &amp;ldquo;2025&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Introduction&lt;/p&gt;
+&lt;p&gt;In 2025, NVIDIA officially announced native Python support for CUDA, opening the doors for developers to write GPU code directly in Python — without needing any C++.&lt;/p&gt;
+&lt;p&gt;The first announcements about moving toward &amp;ldquo;Python-first CUDA&amp;rdquo; were discussed conceptually by NVIDIA engineers at GTC 2024.However, the real official release — usable for developers (i.e., cuda-python, cuda.core 0.2.0) — happened in March–April 2025.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

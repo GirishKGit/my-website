@@ -9,14 +9,23 @@
     <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Autonomous Ops Agent</title>
+      <title>Autonomous Ops Agent — AI‑Powered Operations</title>
       <link>http://localhost:1313/projects/autonomous-ops-agent/</link>
       <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/autonomous-ops-agent/</guid>
-      <description>&lt;p&gt;Streamlit-based RAG + CrewAI assistant for HR and security operations&lt;/p&gt;
-&lt;p&gt;You&amp;rsquo;ll be redirected shortly to the full app!&lt;/p&gt;
+      <description>&lt;p&gt;A Streamlit app that uses Retrieval-Augmented Generation (RAG) and CrewAI agents to assist HR and security teams with policy queries and log monitoring.&lt;/p&gt;
 &lt;h2 id=&#34;live-demo&#34;&gt;Live Demo&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://huggingface.co/spaces/Girishug/autonomous-ops-agent&#34;&gt;&lt;img alt=&#34;Live Demo&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/Live_Demo-HuggingFace_Spaces-orange?logo=streamlit&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;click here -&amp;gt; &lt;a href=&#34;https://huggingface.co/spaces/Girishug/autonomous-ops-agent&#34;&gt;&lt;img alt=&#34;Live Demo on HF–Spaces&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/Launch%20Demo-HF--Spaces-purple?style=for-the-badge&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;key-highlights&#34;&gt;Key Highlights:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Streamlit frontend for easy use&lt;/li&gt;
+&lt;li&gt;CrewAI-based multi-agent collaboration&lt;/li&gt;
+&lt;li&gt;RAG pipeline with Cohere embeddings&lt;/li&gt;
+&lt;li&gt;Policy question answering and log anomaly detection&lt;/li&gt;
+&lt;li&gt;Deployed on Hugging Face Spaces&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;source-code&#34;&gt;Source Code&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/GirishKGit/autonomous-ops-agent&#34;&gt;Source code on GitHub&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Face Score — AI‑Powered Aesthetics</title>
