@@ -1,8 +1,11 @@
+---
 title: "Native Python CUDA for Image Convolution"
 date: 2025-04-28
-description: "A practical guide to writing GPU kernels in pure Python using NVIDIA's native CUDA Python support."
+description: "A practical guide to writing GPU kernels in pure Python using NVIDIA’s native CUDA Python support."
 author: Girish Kumar
 tags: ["CUDA", "Python", "GPU", "Numba", "Image Processing", "AI", "2025"]
+---
+
 
 Introduction
 
