@@ -167,8 +167,7 @@ Use profiling tools for performance bottlenecks.
 
 Conclusion
 
-Native Python CUDA represents a huge leap in GPU programming accessibility.
-Without touching C++, I wrote and launched a real GPU kernel to perform 2D image convolution — all inside Python.
+Native Python CUDA represents a huge leap in GPU programming accessibility.Without touching C++, I wrote and launched a real GPU kernel to perform 2D image convolution — all inside Python.
 
 This new stack is exciting for AI, ML, and HPC developers — unlocking custom GPU workflows without the complexity of C++.
 
